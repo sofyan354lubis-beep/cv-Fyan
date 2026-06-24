@@ -1,0 +1,16 @@
+[
+    {
+        "university": "SMKN 1 SEMARANG",
+		"logo": "images/ntust-logo.png",
+        "major": "Teknik Elektronika Industri",
+        "year": "2020 - 2023",
+        "description": "Menempuh pendidikan menengah kejuruan di SMKN 1 Semarang dengan fokus keahlian Teknik Elektronika Industri. Selama masa studi, saya aktif mendalami kompetensi utama seperti sistem kontrol otomatis, pemrograman PLC, instalasi kelistrikan industri, pneumatik-hidrolik, serta pemeliharaan instrumen elektronik pabrik. Berbekal kombinasi teori yang kuat dan praktik laboratorium yang intensif, saya dibentuk menjadi calon tenaga kerja yang adaptif, disiplin, dan siap mengaplikasikan teknologi otomasi dalam dunia industri modern."
+    },
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Sarjana Terapan Teknik dibidang Teknologi Rekayasa Elektro",
+        "year": "2023 - 2027",
+        "description": "Mahasiswa aktif semester 6 Teknologi Rekayasa Elektronika di Politeknik Negeri Semarang dengan IPK 3.47 dari 4.00. Saya akan mencoba fokus dalam integrasi perangkat keras dan lunak, khususnya pada pengembangan sistem IoT, pemrograman mikrokontroler, serta sistem kontrol dinamis. Berbekal kemampuan analitis dalam menerjemahkan konsep teknik yang kompleks menjadi solusi praktis, saya berkomitmen terus berinovasi mengikuti tren otomasi terkini untuk menjawab tantangan konektivitas dan teknis di dunia nyata."
+    }
+]

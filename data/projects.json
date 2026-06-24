@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Robot Naik Tangga dengan kontrol suara",
+        "year": "2025",
+        "fund": "$700,000 NSF Grant",
+        "partner": "Team Mekatronika",
+        "role": "mechanics",
+        "description": "Sistem robotik ini dirancang khusus untuk mengatasi hambatan berupa anak tangga dengan memanfaatkan teknologi kontrol suara nirkabel dari jarak jauh. Integrasi ini menunjukkan penerapan Natural Language Processing yang memungkinkan respons presisi terhadap perintah manusia, serta penggunaan sistem penggerak adaptif yang mampu menaklukkan medan vertikal. Keunggulan utama dari teknologi ini terletak pada kemampuannya meningkatkan efisiensi operasional dan memberikan solusi mobilitas di area yang berisiko tinggi bagi operator manusia.",
+        "image": "images/project1.png",
+        "link": "-"
+    },
+    {
+        "title": "Smart HydrOPONIC Lettuce greeenhouse",
+        "year": "2025",
+		"fund": "$300,000 NSF Grant",
+        "partner": "Team Instrumentasi II",
+        "role": "mechanics and assembling circuits",
+        "description": "Saya merancang sistem pemantauan lingkungan berbasis IoT untuk efisiensi budidaya selada hidroponik. Peran saya mencakup pengembangan *end-to-end* sistem, mulai dari pemrosesan data sensor real-time pada mikrokontroler hingga perancangan dasbor web yang responsif. Solusi ini memberikan kemudahan bagi pengguna dalam memantau dan mengoptimalkan lingkungan tumbuh tanaman secara jarak jauh via internet.",
+        "image": "images/project2.png",
+        "link": "-"
+    },
+	{
+        "title": "Water Level Control",
+        "year": "2025",
+        "partner": "Team Sistem Kendali Cerdas",
+        "role": "mechanics and assembling circuits",
+        "description": "Alat ini berfungsi sebagai media pembelajaran dalam praktikum sistem kendali, khususnya untuk pengaturan level air (water level control) melalui penerapan berbagai variasi logika. Dengan instrumen ini, mahasiswa dapat mengeksplorasi dan membandingkan performa metode kendali, dengan menggunakan metode PID dalam menjaga stabilitas volume air secara otomatis. Pendekatan ini memberikan pemahaman mendalam tentang bagaimana sebuah sistem merespons gangguan eksternal, yang merupakan dasar krusial dalam dunia otomatisasi industri.",
+        "image": "images/project3.png",
+        "link": "-"
+    }
+]

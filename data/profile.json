@@ -1,0 +1,26 @@
+{
+    "name": "Ahmad Sofyan Lubis - Student Electronic Engeneering",
+    "description": "Mahasiswa S.Tr. Teknologi Rekayasa Elektronika yang berdedikasi, saya memiliki fondasi yang solid dalam integrasi perangkat keras dan lunak, serta memiliki keahlian praktis dalam pengembangan sistem IoT, pemrograman mikrokontroler, dan sistem kontrol dinamis yang responsif serta terukur. Dengan kemampuan analitis yang kuat dalam menerjemahkan konsep teknik kontrol yang kompleks menjadi kode tertanam yang praktis, saya berkomitmen untuk terus mengikuti tren otomasi terkini guna menciptakan solusi inovatif yang mampu menjawab berbagai tantangan teknis dan konektivitas di dunia nyata.",
+    "profileImage": "images/profile.jpg",
+    "email": "ahmad.43423002@mhs.polines.ac.id",
+    "phone": "+62 (882) 005-655241",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/fyan_3054/"
+        },
+        {
+            "platform": "TikTok",
+            "url": "https://www.tiktok.com/@sofyan3054"
+        }
+    ],
+    "skills": [
+        {"name": "PCB Design", "icon": "fas fa-microchip", "level": 60},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 60},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 70},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 70},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 80},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 70},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 60}
+    ]
+}
